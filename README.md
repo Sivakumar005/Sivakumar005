@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Url Shortener<br>👯 I’m looking to collaborate on MERN stack projects<br>🤝 I’m looking for help with best practices in backend scalability<br>🌱 I’m currently learning Next.js & TypeScript<br>💬 Ask me about REACT, EXPRESS.JS<br>⚡ Fun fact : I debug faster with coffee ☕ by my side
+🔭 I’m currently working on drawing app<br>👯 I’m looking to collaborate on MERN stack projects<br>🤝 I’m looking for help with best practices in backend scalability<br>🌱 I’m currently learning Next.js & TypeScript<br>💬 Ask me about REACT, EXPRESS.JS<br>⚡ Fun fact : I debug faster with coffee ☕ by my side
 
 
 ## 🌐 Socials:
